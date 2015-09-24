@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Preferences FileVersion="1.0.0">
+<ConnDetailDefaults PersonalStoreName="" SSLCipherSuite="" SSLFIPSRequired="0" SSLOptionsEnabled="false" SSLPeerName="" SSLResetCount="0" SSLStoresEnabled="false" SecurityExitData="" SecurityExitDirEnabled="true" SecurityExitDirName="C:\Program Files (x86)\IBM\WebSphere MQ\exits\" SecurityExitEnabled="false" SecurityExitJarEnabled="false" SecurityExitJarName="" SecurityExitName="" TrustedStoreName="" UseridEnabled="false" UseridName=""/>
+</Preferences>

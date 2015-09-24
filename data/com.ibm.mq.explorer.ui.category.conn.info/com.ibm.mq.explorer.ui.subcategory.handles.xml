@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QueueManagerHandles SYSTEM "WMQ_Handles.dtd">
+<QueueManagerHandles>
+<QueueManagerHandle commandLevel="0" connnectionType="1" name="QM_JNDI_TEST" platform="0" uuid="[not_defined]" visible="1" refreshInterval="15" autoReconnect="1" expiryInterval="30" waitInterval="30" uniqueId="QM_JNDI_TEST"/>
+<QueueManagerHandle commandLevel="0" connnectionType="1" name="U01RFI100" platform="0" uuid="[not_defined]" visible="1" refreshInterval="15" autoReconnect="1" expiryInterval="30" waitInterval="30" uniqueId="U01RFI100"/>
+<QueueManagerHandle commandLevel="0" connnectionType="1" name="QM_VIKING_AUTH" platform="0" uuid="[not_defined]" visible="1" refreshInterval="15" autoReconnect="1" expiryInterval="30" waitInterval="30" uniqueId="QM_VIKING_AUTH"/>
+<QueueManagerHandle commandLevel="0" connnectionType="1" name="QM_LOKI" platform="0" uuid="[not_defined]" visible="1" refreshInterval="15" autoReconnect="1" expiryInterval="30" waitInterval="30" uniqueId="QM_LOKI"/>
+<QueueManagerHandle commandLevel="0" connnectionType="1" name="QM_VIKING" platform="0" uuid="[not_defined]" visible="1" refreshInterval="15" autoReconnect="1" expiryInterval="30" waitInterval="30" uniqueId="QM_VIKING"/>
+</QueueManagerHandles>

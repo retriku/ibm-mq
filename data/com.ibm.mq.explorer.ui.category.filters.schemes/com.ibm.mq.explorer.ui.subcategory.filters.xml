@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Filters CreatedExampleFilterId_0="com.ibm.mq.explorer.filters.example.queuemanager.Platform.z/VSE" CreatedExampleFilterId_1="com.ibm.mq.explorer.filters.example.queuemanager.Platform.i5/OS" CreatedExampleFilterId_10="com.ibm.mq.explorer.filters.example.queuemanager.Command level.520" CreatedExampleFilterId_11="com.ibm.mq.explorer.filters.example.queuemanager.Command level.701" CreatedExampleFilterId_12="com.ibm.mq.explorer.filters.example.queuemanager.Command level.700" CreatedExampleFilterId_13="com.ibm.mq.explorer.filters.example.queuemanager.Command level.211" CreatedExampleFilterId_14="com.ibm.mq.explorer.filters.example.queuemanager.Command level.510" CreatedExampleFilterId_15="com.ibm.mq.explorer.filters.example.queuemanager.Command level.600" CreatedExampleFilterId_16="com.ibm.mq.explorer.filters.example.queuemanager.Command level.530" CreatedExampleFilterId_17="com.ibm.mq.explorer.filters.example.queuemanager.Command level.300" CreatedExampleFilterId_18="com.ibm.mq.explorer.filters.example.queueslocal" CreatedExampleFilterId_19="com.ibm.mq.explorer.filters.example.queuesremote" CreatedExampleFilterId_2="com.ibm.mq.explorer.filters.example.queuemanager.Platform.Unix" CreatedExampleFilterId_20="com.ibm.mq.explorer.filters.example.queuesmodel" CreatedExampleFilterId_21="com.ibm.mq.explorer.filters.example.queuesalias" CreatedExampleFilterId_22="com.ibm.mq.explorer.filters.example.queueswithmsgs" CreatedExampleFilterId_23="com.ibm.mq.explorer.filters.example.queuestatuswithmsgs" CreatedExampleFilterId_24="com.ibm.mq.explorer.filters.example.queuestatuswithuncommittedmsgs" CreatedExampleFilterId_25="com.ibm.mq.explorer.filters.example.channelssender" CreatedExampleFilterId_26="com.ibm.mq.explorer.filters.example.channelsserver" CreatedExampleFilterId_27="com.ibm.mq.explorer.filters.example.channelsrequester" CreatedExampleFilterId_28="com.ibm.mq.explorer.filters.example.channelsreceiver" CreatedExampleFilterId_29="com.ibm.mq.explorer.filters.example.channelsclustersender" CreatedExampleFilterId_3="com.ibm.mq.explorer.filters.example.queuemanager.Platform.OS/2" CreatedExampleFilterId_30="com.ibm.mq.explorer.filters.example.channelsclusterreceiver" CreatedExampleFilterId_31="com.ibm.mq.explorer.filters.example.channelsserverconnection" CreatedExampleFilterId_32="com.ibm.mq.explorer.filters.example.channelstatusstopped" CreatedExampleFilterId_33="com.ibm.mq.explorer.filters.example.channelstatusretrying" CreatedExampleFilterId_34="com.ibm.mq.explorer.filters.example.listenerstcp" CreatedExampleFilterId_35="com.ibm.mq.explorer.filters.example.listenersnetbios" CreatedExampleFilterId_36="com.ibm.mq.explorer.filters.example.listenersspx" CreatedExampleFilterId_37="com.ibm.mq.explorer.filters.example.listenerslu62" CreatedExampleFilterId_4="com.ibm.mq.explorer.filters.example.queuemanager.Platform.NSK" CreatedExampleFilterId_5="com.ibm.mq.explorer.filters.example.queuemanager.Platform.Compaq O/VMS" CreatedExampleFilterId_6="com.ibm.mq.explorer.filters.example.queuemanager.Platform.z/OS" CreatedExampleFilterId_7="com.ibm.mq.explorer.filters.example.queuemanager.Platform.Windows" CreatedExampleFilterId_8="com.ibm.mq.explorer.filters.example.queuemanager.Command level.500" CreatedExampleFilterId_9="com.ibm.mq.explorer.filters.example.queuemanager.Command level.521" ExamplesCreatedCount="38" FileVersion="1.0.0" RegisteredFilterIdCount="34" RegisteredFilterId_0="com.ibm.mq.explorer.filterid.topicstatuspub" RegisteredFilterId_1="com.ibm.mq.explorer.filterid.qmgrhandle" RegisteredFilterId_10="com.ibm.mq.explorer.filterid.storageclass" RegisteredFilterId_11="com.ibm.mq.explorer.filterid.clusterqueuemanagers" RegisteredFilterId_12="com.ibm.mq.explorer.filterid.qmgrstatus" RegisteredFilterId_13="com.ibm.mq.explorer.filterid.authinfo" RegisteredFilterId_14="com.ibm.mq.explorer.filterid.queuestatus" RegisteredFilterId_15="com.ibm.mq.explorer.filterid.subscriptionstatus" RegisteredFilterId_16="com.ibm.mq.explorer.filterid.channelstatus" RegisteredFilterId_17="com.ibm.mq.explorer.pubsub.filterid.topics" RegisteredFilterId_18="com.ibm.mq.explorer.filterid.clientconns" RegisteredFilterId_19="com.ibm.mq.explorer.filterid.channelsavedstatus" RegisteredFilterId_2="com.ibm.mq.explorer.filterid.listeners.zos" RegisteredFilterId_20="com.ibm.mq.explorer.filterid.couplingfacilitystatus.backup" RegisteredFilterId_21="com.ibm.mq.explorer.filterid.topicstatussub" RegisteredFilterId_22="com.ibm.mq.explorer.jmsadmin.context" RegisteredFilterId_23="com.ibm.mq.explorer.filterid.namelists" RegisteredFilterId_24="com.ibm.mq.explorer.filterid.qmgrconns" RegisteredFilterId_25="com.ibm.mq.explorer.filterid.listeners" RegisteredFilterId_26="com.ibm.mq.explorer.filterid.processes" RegisteredFilterId_27="com.ibm.mq.explorer.filterid.subscriptions" RegisteredFilterId_28="com.ibm.mq.explorer.filterid.queuesharinggroups" RegisteredFilterId_29="com.ibm.mq.explorer.filterid.topics" RegisteredFilterId_3="com.ibm.mq.explorer.filterid.couplingfacility" RegisteredFilterId_30="com.ibm.mq.explorer.filterid.queues" RegisteredFilterId_31="com.ibm.mq.explorer.filterid.couplingfacilitystatus.connect" RegisteredFilterId_32="com.ibm.mq.explorer.filterid.topicstatus" RegisteredFilterId_33="com.ibm.mq.explorer.filterid.qmgrs" RegisteredFilterId_4="com.ibm.mq.explorer.filterid.couplingfacilitystatus.summary" RegisteredFilterId_5="com.ibm.mq.explorer.filterid.channels" RegisteredFilterId_6="com.ibm.mq.explorer.filterid.listenerstatus" RegisteredFilterId_7="com.ibm.mq.explorer.filterid.queuehandlestatus" RegisteredFilterId_8="com.ibm.mq.explorer.filterid.services" RegisteredFilterId_9="com.ibm.mq.explorer.filterid.servicestatus">
+<FilterRegistration_com.ibm.mq.explorer.filterid.qmgrs>
+<DefaultFilter FilterName="Default for Queue Managers" Id="com.ibm.mq.explorer.filterid.qmgrs" IsDefault="1" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="2" UniversalId="Default for Queue Managers_Thu Sep 17 09:28:21 EDT 2015"/>
+<NullFilter FilterName="[None]" Id="com.ibm.mq.explorer.filterid.qmgrs" IsDefault="0" IsNull="1" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="2" UniversalId="[None]_Thu Sep 17 09:28:21 EDT 2015"/>
+<UserFilters UserDefinedCount="19">
+<UserDefinedFilter_0 FilterName="Platform = Windows" Id="com.ibm.mq.explorer.filterid.qmgrs" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="1" LastSelected="0.0" NameValue="*" SubtypeValue="-1" TypeValue="2" UniversalId="Platform = Windows_Thu Sep 17 09:28:22 EDT 2015" WhereAttrId="32" WhereOp="2" WhereValue="11" WhereValueName="Windows" WhereValueType="1"/>
+<UserDefinedFilter_1 FilterName="Command level = 530" Id="com.ibm.mq.explorer.filterid.qmgrs" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="1" LastSelected="0.0" NameValue="*" SubtypeValue="-1" TypeValue="2" UniversalId="Command level = 530_Thu Sep 17 09:28:22 EDT 2015" WhereAttrId="31" WhereOp="2" WhereValue="530" WhereValueName="530" WhereValueType="1"/>
+<UserDefinedFilter_2 FilterName="Command level = 700" Id="com.ibm.mq.explorer.filterid.qmgrs" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="1" LastSelected="0.0" NameValue="*" SubtypeValue="-1" TypeValue="2" UniversalId="Command level = 700_Thu Sep 17 09:28:22 EDT 2015" WhereAttrId="31" WhereOp="2" WhereValue="700" WhereValueName="700" WhereValueType="1"/>
+<UserDefinedFilter_3 FilterName="Platform = z/OS" Id="com.ibm.mq.explorer.filterid.qmgrs" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="1" LastSelected="0.0" NameValue="*" SubtypeValue="-1" TypeValue="2" UniversalId="Platform = z/OS_Thu Sep 17 09:28:22 EDT 2015" WhereAttrId="32" WhereOp="2" WhereValue="1" WhereValueName="z/OS" WhereValueType="1"/>
+<UserDefinedFilter_4 FilterName="Command level = 300" Id="com.ibm.mq.explorer.filterid.qmgrs" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="1" LastSelected="0.0" NameValue="*" SubtypeValue="-1" TypeValue="2" UniversalId="Command level = 300_Thu Sep 17 09:28:22 EDT 2015" WhereAttrId="31" WhereOp="2" WhereValue="300" WhereValueName="300" WhereValueType="1"/>
+<UserDefinedFilter_5 FilterName="Platform = OS/2" Id="com.ibm.mq.explorer.filterid.qmgrs" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="1" LastSelected="0.0" NameValue="*" SubtypeValue="-1" TypeValue="2" UniversalId="Platform = OS/2_Thu Sep 17 09:28:22 EDT 2015" WhereAttrId="32" WhereOp="2" WhereValue="2" WhereValueName="OS/2" WhereValueType="1"/>
+<UserDefinedFilter_6 FilterName="Command level = 701" Id="com.ibm.mq.explorer.filterid.qmgrs" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="1" LastSelected="0.0" NameValue="*" SubtypeValue="-1" TypeValue="2" UniversalId="Command level = 701_Thu Sep 17 09:28:22 EDT 2015" WhereAttrId="31" WhereOp="2" WhereValue="701" WhereValueName="701" WhereValueType="1"/>
+<UserDefinedFilter_7 FilterName="Command level = 520" Id="com.ibm.mq.explorer.filterid.qmgrs" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="1" LastSelected="0.0" NameValue="*" SubtypeValue="-1" TypeValue="2" UniversalId="Command level = 520_Thu Sep 17 09:28:22 EDT 2015" WhereAttrId="31" WhereOp="2" WhereValue="520" WhereValueName="520" WhereValueType="1"/>
+<UserDefinedFilter_8 FilterName="Platform = z/VSE" Id="com.ibm.mq.explorer.filterid.qmgrs" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="1" LastSelected="0.0" NameValue="*" SubtypeValue="-1" TypeValue="2" UniversalId="Platform = z/VSE_Thu Sep 17 09:28:22 EDT 2015" WhereAttrId="32" WhereOp="2" WhereValue="27" WhereValueName="z/VSE" WhereValueType="1"/>
+<UserDefinedFilter_9 FilterName="Command level = 211" Id="com.ibm.mq.explorer.filterid.qmgrs" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="1" LastSelected="0.0" NameValue="*" SubtypeValue="-1" TypeValue="2" UniversalId="Command level = 211_Thu Sep 17 09:28:22 EDT 2015" WhereAttrId="31" WhereOp="2" WhereValue="211" WhereValueName="211" WhereValueType="1"/>
+<UserDefinedFilter_10 FilterName="Standard for Queue Managers" Id="com.ibm.mq.explorer.filterid.qmgrs" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="1.44249651E12" NameValue="*" SubtypeValue="0" TypeValue="2" UniversalId="Standard for Queue Managers_Thu Sep 17 09:28:21 EDT 2015"/>
+<UserDefinedFilter_11 FilterName="Command level = 600" Id="com.ibm.mq.explorer.filterid.qmgrs" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="1" LastSelected="0.0" NameValue="*" SubtypeValue="-1" TypeValue="2" UniversalId="Command level = 600_Thu Sep 17 09:28:22 EDT 2015" WhereAttrId="31" WhereOp="2" WhereValue="600" WhereValueName="600" WhereValueType="1"/>
+<UserDefinedFilter_12 FilterName="Platform = Compaq O/VMS" Id="com.ibm.mq.explorer.filterid.qmgrs" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="1" LastSelected="0.0" NameValue="*" SubtypeValue="-1" TypeValue="2" UniversalId="Platform = Compaq O/VMS_Thu Sep 17 09:28:22 EDT 2015" WhereAttrId="32" WhereOp="2" WhereValue="12" WhereValueName="Compaq O/VMS" WhereValueType="1"/>
+<UserDefinedFilter_13 FilterName="Command level = 521" Id="com.ibm.mq.explorer.filterid.qmgrs" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="1" LastSelected="0.0" NameValue="*" SubtypeValue="-1" TypeValue="2" UniversalId="Command level = 521_Thu Sep 17 09:28:22 EDT 2015" WhereAttrId="31" WhereOp="2" WhereValue="521" WhereValueName="521" WhereValueType="1"/>
+<UserDefinedFilter_14 FilterName="Platform = i5/OS" Id="com.ibm.mq.explorer.filterid.qmgrs" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="1" LastSelected="0.0" NameValue="*" SubtypeValue="-1" TypeValue="2" UniversalId="Platform = i5/OS_Thu Sep 17 09:28:22 EDT 2015" WhereAttrId="32" WhereOp="2" WhereValue="4" WhereValueName="i5/OS" WhereValueType="1"/>
+<UserDefinedFilter_15 FilterName="Platform = NSK" Id="com.ibm.mq.explorer.filterid.qmgrs" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="1" LastSelected="0.0" NameValue="*" SubtypeValue="-1" TypeValue="2" UniversalId="Platform = NSK_Thu Sep 17 09:28:22 EDT 2015" WhereAttrId="32" WhereOp="2" WhereValue="13" WhereValueName="NSK" WhereValueType="1"/>
+<UserDefinedFilter_16 FilterName="Platform = Unix" Id="com.ibm.mq.explorer.filterid.qmgrs" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="1" LastSelected="0.0" NameValue="*" SubtypeValue="-1" TypeValue="2" UniversalId="Platform = Unix_Thu Sep 17 09:28:22 EDT 2015" WhereAttrId="32" WhereOp="2" WhereValue="3" WhereValueName="Unix" WhereValueType="1"/>
+<UserDefinedFilter_17 FilterName="Command level = 510" Id="com.ibm.mq.explorer.filterid.qmgrs" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="1" LastSelected="0.0" NameValue="*" SubtypeValue="-1" TypeValue="2" UniversalId="Command level = 510_Thu Sep 17 09:28:22 EDT 2015" WhereAttrId="31" WhereOp="2" WhereValue="510" WhereValueName="510" WhereValueType="1"/>
+<UserDefinedFilter_18 FilterName="Command level = 500" Id="com.ibm.mq.explorer.filterid.qmgrs" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="1" LastSelected="0.0" NameValue="*" SubtypeValue="-1" TypeValue="2" UniversalId="Command level = 500_Thu Sep 17 09:28:22 EDT 2015" WhereAttrId="31" WhereOp="2" WhereValue="500" WhereValueName="500" WhereValueType="1"/>
+</UserFilters>
+<FilterSelections FilterSelFilterUID_0="Standard for Queue Managers_Thu Sep 17 09:28:21 EDT 2015" FilterSelInstanceID_0="com.ibm.mq.explorer.instanceid.common" SelectionCount="1"/>
+</FilterRegistration_com.ibm.mq.explorer.filterid.qmgrs>
+<FilterRegistration_com.ibm.mq.explorer.filterid.qmgrhandle>
+<DefaultFilter FilterName="Default for Queue Manager Handles" Id="com.ibm.mq.explorer.filterid.qmgrhandle" IsDefault="1" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="1002" UniversalId="Default for Queue Manager Handles_Thu Sep 17 09:28:21 EDT 2015"/>
+<NullFilter FilterName="[None]" Id="com.ibm.mq.explorer.filterid.qmgrhandle" IsDefault="0" IsNull="1" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="1002" UniversalId="[None]_Thu Sep 17 09:28:21 EDT 2015"/>
+<UserFilters UserDefinedCount="1">
+<UserDefinedFilter_0 FilterName="Standard for Queue Manager Handles" Id="com.ibm.mq.explorer.filterid.qmgrhandle" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="1.44249651E12" NameValue="*" SubtypeValue="0" TypeValue="1002" UniversalId="Standard for Queue Manager Handles_Thu Sep 17 09:28:21 EDT 2015"/>
+</UserFilters>
+<FilterSelections FilterSelFilterUID_0="Standard for Queue Manager Handles_Thu Sep 17 09:28:21 EDT 2015" FilterSelInstanceID_0="com.ibm.mq.explorer.instanceid.common" SelectionCount="1"/>
+</FilterRegistration_com.ibm.mq.explorer.filterid.qmgrhandle>
+<FilterRegistration_com.ibm.mq.explorer.filterid.qmgrconns>
+<DefaultFilter FilterName="Default for Queue Manager Connections" Id="com.ibm.mq.explorer.filterid.qmgrconns" IsDefault="1" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="85" UniversalId="Default for Queue Manager Connections_Thu Sep 17 09:28:21 EDT 2015"/>
+<NullFilter FilterName="[None]" Id="com.ibm.mq.explorer.filterid.qmgrconns" IsDefault="0" IsNull="1" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="85" UniversalId="[None]_Thu Sep 17 09:28:21 EDT 2015"/>
+<UserFilters UserDefinedCount="1">
+<UserDefinedFilter_0 FilterName="Standard for Queue Manager Connections" Id="com.ibm.mq.explorer.filterid.qmgrconns" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="1.44249651E12" NameValue="*" SubtypeValue="0" TypeValue="85" UniversalId="Standard for Queue Manager Connections_Thu Sep 17 09:28:21 EDT 2015"/>
+</UserFilters>
+<FilterSelections FilterSelFilterUID_0="Standard for Queue Manager Connections_Thu Sep 17 09:28:21 EDT 2015" FilterSelInstanceID_0="com.ibm.mq.explorer.instanceid.common" SelectionCount="1"/>
+</FilterRegistration_com.ibm.mq.explorer.filterid.qmgrconns>
+<FilterRegistration_com.ibm.mq.explorer.filterid.qmgrstatus>
+<DefaultFilter FilterName="Default for Queue Manager Status" Id="com.ibm.mq.explorer.filterid.qmgrstatus" IsDefault="1" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="161" UniversalId="Default for Queue Manager Status_Thu Sep 17 09:28:21 EDT 2015"/>
+<NullFilter FilterName="[None]" Id="com.ibm.mq.explorer.filterid.qmgrstatus" IsDefault="0" IsNull="1" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="161" UniversalId="[None]_Thu Sep 17 09:28:21 EDT 2015"/>
+<UserFilters UserDefinedCount="1">
+<UserDefinedFilter_0 FilterName="Standard for Queue Manager Status" Id="com.ibm.mq.explorer.filterid.qmgrstatus" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="1.44249651E12" NameValue="*" SubtypeValue="0" TypeValue="161" UniversalId="Standard for Queue Manager Status_Thu Sep 17 09:28:21 EDT 2015"/>
+</UserFilters>
+<FilterSelections FilterSelFilterUID_0="Standard for Queue Manager Status_Thu Sep 17 09:28:21 EDT 2015" FilterSelInstanceID_0="com.ibm.mq.explorer.instanceid.common" SelectionCount="1"/>
+</FilterRegistration_com.ibm.mq.explorer.filterid.qmgrstatus>
+<FilterRegistration_com.ibm.mq.explorer.filterid.queues>
+<DefaultFilter FilterName="Default for Queues" Id="com.ibm.mq.explorer.filterid.queues" IsDefault="1" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="1001" TypeValue="13" UniversalId="Default for Queues_Thu Sep 17 09:28:21 EDT 2015"/>
+<NullFilter FilterName="[None]" Id="com.ibm.mq.explorer.filterid.queues" IsDefault="0" IsNull="1" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="1001" TypeValue="13" UniversalId="[None]_Thu Sep 17 09:28:21 EDT 2015"/>
+<UserFilters UserDefinedCount="6">
+<UserDefinedFilter_0 FilterName="All model queues" Id="com.ibm.mq.explorer.filterid.queues" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="2" TypeValue="13" UniversalId="All model queues_Thu Sep 17 09:28:22 EDT 2015"/>
+<UserDefinedFilter_1 FilterName="Standard for Queues" Id="com.ibm.mq.explorer.filterid.queues" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="1.44249651E12" NameValue="*" SubtypeValue="1001" TypeValue="13" UniversalId="Standard for Queues_Thu Sep 17 09:28:21 EDT 2015"/>
+<UserDefinedFilter_2 FilterName="All queues with messages" Id="com.ibm.mq.explorer.filterid.queues" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="1" LastSelected="0.0" NameValue="*" SubtypeValue="1001" TypeValue="13" UniversalId="All queues with messages_Thu Sep 17 09:28:22 EDT 2015" WhereAttrId="3" WhereOp="4" WhereValue="0" WhereValueName="0" WhereValueType="1"/>
+<UserDefinedFilter_3 FilterName="All alias queues" Id="com.ibm.mq.explorer.filterid.queues" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="3" TypeValue="13" UniversalId="All alias queues_Thu Sep 17 09:28:22 EDT 2015"/>
+<UserDefinedFilter_4 FilterName="All remote queue definitions" Id="com.ibm.mq.explorer.filterid.queues" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="6" TypeValue="13" UniversalId="All remote queue definitions_Thu Sep 17 09:28:22 EDT 2015"/>
+<UserDefinedFilter_5 FilterName="All local queues" Id="com.ibm.mq.explorer.filterid.queues" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="1" TypeValue="13" UniversalId="All local queues_Thu Sep 17 09:28:22 EDT 2015"/>
+</UserFilters>
+<FilterSelections FilterSelFilterUID_0="Standard for Queues_Thu Sep 17 09:28:21 EDT 2015" FilterSelInstanceID_0="com.ibm.mq.explorer.instanceid.common" SelectionCount="1"/>
+</FilterRegistration_com.ibm.mq.explorer.filterid.queues>
+<FilterRegistration_com.ibm.mq.explorer.filterid.topics>
+<DefaultFilter FilterName="Default for Topics" Id="com.ibm.mq.explorer.filterid.topics" IsDefault="1" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="174" UniversalId="Default for Topics_Thu Sep 17 09:28:21 EDT 2015"/>
+<NullFilter FilterName="[None]" Id="com.ibm.mq.explorer.filterid.topics" IsDefault="0" IsNull="1" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="174" UniversalId="[None]_Thu Sep 17 09:28:21 EDT 2015"/>
+<UserFilters UserDefinedCount="1">
+<UserDefinedFilter_0 FilterName="Standard for Topics" Id="com.ibm.mq.explorer.filterid.topics" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="1.44249651E12" NameValue="*" SubtypeValue="0" TypeValue="174" UniversalId="Standard for Topics_Thu Sep 17 09:28:21 EDT 2015"/>
+</UserFilters>
+<FilterSelections FilterSelFilterUID_0="Standard for Topics_Thu Sep 17 09:28:21 EDT 2015" FilterSelInstanceID_0="com.ibm.mq.explorer.instanceid.common" SelectionCount="1"/>
+</FilterRegistration_com.ibm.mq.explorer.filterid.topics>
+<FilterRegistration_com.ibm.mq.explorer.filterid.topicstatus>
+<DefaultFilter FilterName="Default for Topic Status" Id="com.ibm.mq.explorer.filterid.topicstatus" IsDefault="1" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="183" UniversalId="Default for Topic Status_Thu Sep 17 09:28:21 EDT 2015"/>
+<NullFilter FilterName="[None]" Id="com.ibm.mq.explorer.filterid.topicstatus" IsDefault="0" IsNull="1" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="183" UniversalId="[None]_Thu Sep 17 09:28:21 EDT 2015"/>
+<UserFilters UserDefinedCount="1">
+<UserDefinedFilter_0 FilterName="Standard for Topic Status" Id="com.ibm.mq.explorer.filterid.topicstatus" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="1.44249651E12" NameValue="*" SubtypeValue="0" TypeValue="183" UniversalId="Standard for Topic Status_Thu Sep 17 09:28:21 EDT 2015"/>
+</UserFilters>
+<FilterSelections FilterSelFilterUID_0="Standard for Topic Status_Thu Sep 17 09:28:21 EDT 2015" FilterSelInstanceID_0="com.ibm.mq.explorer.instanceid.common" SelectionCount="1"/>
+</FilterRegistration_com.ibm.mq.explorer.filterid.topicstatus>
+<FilterRegistration_com.ibm.mq.explorer.filterid.topicstatuspub>
+<DefaultFilter FilterName="Default for Topic Status - Publisher" Id="com.ibm.mq.explorer.filterid.topicstatuspub" IsDefault="1" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="1022" UniversalId="Default for Topic Status - Publisher_Thu Sep 17 09:28:21 EDT 2015"/>
+<NullFilter FilterName="[None]" Id="com.ibm.mq.explorer.filterid.topicstatuspub" IsDefault="0" IsNull="1" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="1022" UniversalId="[None]_Thu Sep 17 09:28:21 EDT 2015"/>
+<UserFilters UserDefinedCount="1">
+<UserDefinedFilter_0 FilterName="Standard for Topic Status - Publisher" Id="com.ibm.mq.explorer.filterid.topicstatuspub" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="1.44249651E12" NameValue="*" SubtypeValue="0" TypeValue="1022" UniversalId="Standard for Topic Status - Publisher_Thu Sep 17 09:28:21 EDT 2015"/>
+</UserFilters>
+<FilterSelections FilterSelFilterUID_0="Standard for Topic Status - Publisher_Thu Sep 17 09:28:21 EDT 2015" FilterSelInstanceID_0="com.ibm.mq.explorer.instanceid.common" SelectionCount="1"/>
+</FilterRegistration_com.ibm.mq.explorer.filterid.topicstatuspub>
+<FilterRegistration_com.ibm.mq.explorer.filterid.topicstatussub>
+<DefaultFilter FilterName="Default for Topic Status - Subscriber" Id="com.ibm.mq.explorer.filterid.topicstatussub" IsDefault="1" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="1023" UniversalId="Default for Topic Status - Subscriber_Thu Sep 17 09:28:21 EDT 2015"/>
+<NullFilter FilterName="[None]" Id="com.ibm.mq.explorer.filterid.topicstatussub" IsDefault="0" IsNull="1" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="1023" UniversalId="[None]_Thu Sep 17 09:28:21 EDT 2015"/>
+<UserFilters UserDefinedCount="1">
+<UserDefinedFilter_0 FilterName="Standard for Topic Status - Subscriber" Id="com.ibm.mq.explorer.filterid.topicstatussub" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="1.44249651E12" NameValue="*" SubtypeValue="0" TypeValue="1023" UniversalId="Standard for Topic Status - Subscriber_Thu Sep 17 09:28:21 EDT 2015"/>
+</UserFilters>
+<FilterSelections FilterSelFilterUID_0="Standard for Topic Status - Subscriber_Thu Sep 17 09:28:21 EDT 2015" FilterSelInstanceID_0="com.ibm.mq.explorer.instanceid.common" SelectionCount="1"/>
+</FilterRegistration_com.ibm.mq.explorer.filterid.topicstatussub>
+<FilterRegistration_com.ibm.mq.explorer.filterid.subscriptions>
+<DefaultFilter FilterName="Default for Subscriptions" Id="com.ibm.mq.explorer.filterid.subscriptions" IsDefault="1" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="-1" TypeValue="176" UniversalId="Default for Subscriptions_Thu Sep 17 09:28:21 EDT 2015"/>
+<NullFilter FilterName="[None]" Id="com.ibm.mq.explorer.filterid.subscriptions" IsDefault="0" IsNull="1" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="-1" TypeValue="176" UniversalId="[None]_Thu Sep 17 09:28:21 EDT 2015"/>
+<UserFilters UserDefinedCount="1">
+<UserDefinedFilter_0 FilterName="Standard for Subscriptions" Id="com.ibm.mq.explorer.filterid.subscriptions" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="1.44249651E12" NameValue="*" SubtypeValue="-1" TypeValue="176" UniversalId="Standard for Subscriptions_Thu Sep 17 09:28:21 EDT 2015"/>
+</UserFilters>
+<FilterSelections FilterSelFilterUID_0="Standard for Subscriptions_Thu Sep 17 09:28:21 EDT 2015" FilterSelInstanceID_0="com.ibm.mq.explorer.instanceid.common" SelectionCount="1"/>
+</FilterRegistration_com.ibm.mq.explorer.filterid.subscriptions>
+<FilterRegistration_com.ibm.mq.explorer.filterid.subscriptionstatus>
+<DefaultFilter FilterName="Default for Subscription Status" Id="com.ibm.mq.explorer.filterid.subscriptionstatus" IsDefault="1" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="182" UniversalId="Default for Subscription Status_Thu Sep 17 09:28:21 EDT 2015"/>
+<NullFilter FilterName="[None]" Id="com.ibm.mq.explorer.filterid.subscriptionstatus" IsDefault="0" IsNull="1" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="182" UniversalId="[None]_Thu Sep 17 09:28:21 EDT 2015"/>
+<UserFilters UserDefinedCount="1">
+<UserDefinedFilter_0 FilterName="Standard for Subscription Status" Id="com.ibm.mq.explorer.filterid.subscriptionstatus" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="1.44249651E12" NameValue="*" SubtypeValue="0" TypeValue="182" UniversalId="Standard for Subscription Status_Thu Sep 17 09:28:21 EDT 2015"/>
+</UserFilters>
+<FilterSelections FilterSelFilterUID_0="Standard for Subscription Status_Thu Sep 17 09:28:21 EDT 2015" FilterSelInstanceID_0="com.ibm.mq.explorer.instanceid.common" SelectionCount="1"/>
+</FilterRegistration_com.ibm.mq.explorer.filterid.subscriptionstatus>
+<FilterRegistration_com.ibm.mq.explorer.filterid.queuestatus>
+<DefaultFilter FilterName="Default for Queue Status" Id="com.ibm.mq.explorer.filterid.queuestatus" IsDefault="1" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="1008" UniversalId="Default for Queue Status_Thu Sep 17 09:28:21 EDT 2015"/>
+<NullFilter FilterName="[None]" Id="com.ibm.mq.explorer.filterid.queuestatus" IsDefault="0" IsNull="1" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="1008" UniversalId="[None]_Thu Sep 17 09:28:21 EDT 2015"/>
+<UserFilters UserDefinedCount="3">
+<UserDefinedFilter_0 FilterName="All queue status with messages" Id="com.ibm.mq.explorer.filterid.queuestatus" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="1" LastSelected="0.0" NameValue="*" SubtypeValue="-1" TypeValue="1008" UniversalId="All queue status with messages_Thu Sep 17 09:28:22 EDT 2015" WhereAttrId="3" WhereOp="4" WhereValue="0" WhereValueName="0" WhereValueType="1"/>
+<UserDefinedFilter_1 FilterName="Standard for Queue Status" Id="com.ibm.mq.explorer.filterid.queuestatus" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="1.44249651E12" NameValue="*" SubtypeValue="0" TypeValue="1008" UniversalId="Standard for Queue Status_Thu Sep 17 09:28:21 EDT 2015"/>
+<UserDefinedFilter_2 FilterName="All queue status with uncommitted messages" Id="com.ibm.mq.explorer.filterid.queuestatus" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="1" LastSelected="0.0" NameValue="*" SubtypeValue="-1" TypeValue="1008" UniversalId="All queue status with uncommitted messages_Thu Sep 17 09:28:22 EDT 2015" WhereAttrId="1027" WhereOp="2" WhereValue="1" WhereValueName="Yes" WhereValueType="1"/>
+</UserFilters>
+<FilterSelections FilterSelFilterUID_0="Standard for Queue Status_Thu Sep 17 09:28:21 EDT 2015" FilterSelInstanceID_0="com.ibm.mq.explorer.instanceid.common" SelectionCount="1"/>
+</FilterRegistration_com.ibm.mq.explorer.filterid.queuestatus>
+<FilterRegistration_com.ibm.mq.explorer.filterid.queuehandlestatus>
+<DefaultFilter FilterName="Default for Queue Handle Status" Id="com.ibm.mq.explorer.filterid.queuehandlestatus" IsDefault="1" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="1007" UniversalId="Default for Queue Handle Status_Thu Sep 17 09:28:21 EDT 2015"/>
+<NullFilter FilterName="[None]" Id="com.ibm.mq.explorer.filterid.queuehandlestatus" IsDefault="0" IsNull="1" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="1007" UniversalId="[None]_Thu Sep 17 09:28:21 EDT 2015"/>
+<UserFilters UserDefinedCount="1">
+<UserDefinedFilter_0 FilterName="Standard for Queue Handle Status" Id="com.ibm.mq.explorer.filterid.queuehandlestatus" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="1.44249651E12" NameValue="*" SubtypeValue="0" TypeValue="1007" UniversalId="Standard for Queue Handle Status_Thu Sep 17 09:28:21 EDT 2015"/>
+</UserFilters>
+<FilterSelections FilterSelFilterUID_0="Standard for Queue Handle Status_Thu Sep 17 09:28:21 EDT 2015" FilterSelInstanceID_0="com.ibm.mq.explorer.instanceid.common" SelectionCount="1"/>
+</FilterRegistration_com.ibm.mq.explorer.filterid.queuehandlestatus>
+<FilterRegistration_com.ibm.mq.explorer.filterid.channels>
+<DefaultFilter FilterName="Default for Channels" Id="com.ibm.mq.explorer.filterid.channels" IsDefault="1" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="5" TypeValue="25" UniversalId="Default for Channels_Thu Sep 17 09:28:21 EDT 2015"/>
+<NullFilter FilterName="[None]" Id="com.ibm.mq.explorer.filterid.channels" IsDefault="0" IsNull="1" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="5" TypeValue="25" UniversalId="[None]_Thu Sep 17 09:28:21 EDT 2015"/>
+<UserFilters UserDefinedCount="8">
+<UserDefinedFilter_0 FilterName="All server-connection channels" Id="com.ibm.mq.explorer.filterid.channels" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="7" TypeValue="25" UniversalId="All server-connection channels_Thu Sep 17 09:28:22 EDT 2015"/>
+<UserDefinedFilter_1 FilterName="Standard for Channels" Id="com.ibm.mq.explorer.filterid.channels" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="1.44249651E12" NameValue="*" SubtypeValue="5" TypeValue="25" UniversalId="Standard for Channels_Thu Sep 17 09:28:21 EDT 2015"/>
+<UserDefinedFilter_2 FilterName="All requester channels" Id="com.ibm.mq.explorer.filterid.channels" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="4" TypeValue="25" UniversalId="All requester channels_Thu Sep 17 09:28:22 EDT 2015"/>
+<UserDefinedFilter_3 FilterName="All server channels" Id="com.ibm.mq.explorer.filterid.channels" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="2" TypeValue="25" UniversalId="All server channels_Thu Sep 17 09:28:22 EDT 2015"/>
+<UserDefinedFilter_4 FilterName="All cluster-receiver channels" Id="com.ibm.mq.explorer.filterid.channels" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="8" TypeValue="25" UniversalId="All cluster-receiver channels_Thu Sep 17 09:28:22 EDT 2015"/>
+<UserDefinedFilter_5 FilterName="All cluster-sender channels" Id="com.ibm.mq.explorer.filterid.channels" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="9" TypeValue="25" UniversalId="All cluster-sender channels_Thu Sep 17 09:28:22 EDT 2015"/>
+<UserDefinedFilter_6 FilterName="All sender channels" Id="com.ibm.mq.explorer.filterid.channels" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="1" TypeValue="25" UniversalId="All sender channels_Thu Sep 17 09:28:22 EDT 2015"/>
+<UserDefinedFilter_7 FilterName="All receiver channels" Id="com.ibm.mq.explorer.filterid.channels" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="3" TypeValue="25" UniversalId="All receiver channels_Thu Sep 17 09:28:22 EDT 2015"/>
+</UserFilters>
+<FilterSelections FilterSelFilterUID_0="Standard for Channels_Thu Sep 17 09:28:21 EDT 2015" FilterSelInstanceID_0="com.ibm.mq.explorer.instanceid.common" SelectionCount="1"/>
+</FilterRegistration_com.ibm.mq.explorer.filterid.channels>
+<FilterRegistration_com.ibm.mq.explorer.filterid.clusterqueuemanagers>
+<DefaultFilter FilterName="Default for UI.FILTERS.Default.ClusterQueueManagers" Id="com.ibm.mq.explorer.filterid.clusterqueuemanagers" IsDefault="1" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="70" UniversalId="Default for UI.FILTERS.Default.ClusterQueueManagers_Thu Sep 17 09:28:21 EDT 2015"/>
+<NullFilter FilterName="[None]" Id="com.ibm.mq.explorer.filterid.clusterqueuemanagers" IsDefault="0" IsNull="1" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="70" UniversalId="[None]_Thu Sep 17 09:28:21 EDT 2015"/>
+<UserFilters UserDefinedCount="1">
+<UserDefinedFilter_0 FilterName="Standard for UI.FILTERS.Default.ClusterQueueManagers" Id="com.ibm.mq.explorer.filterid.clusterqueuemanagers" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="1.44249651E12" NameValue="*" SubtypeValue="0" TypeValue="70" UniversalId="Standard for UI.FILTERS.Default.ClusterQueueManagers_Thu Sep 17 09:28:21 EDT 2015"/>
+</UserFilters>
+<FilterSelections FilterSelFilterUID_0="Standard for UI.FILTERS.Default.ClusterQueueManagers_Thu Sep 17 09:28:21 EDT 2015" FilterSelInstanceID_0="com.ibm.mq.explorer.instanceid.common" SelectionCount="1"/>
+</FilterRegistration_com.ibm.mq.explorer.filterid.clusterqueuemanagers>
+<FilterRegistration_com.ibm.mq.explorer.filterid.channelstatus>
+<DefaultFilter FilterName="Default for Channel Status" Id="com.ibm.mq.explorer.filterid.channelstatus" IsDefault="1" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="1009" UniversalId="Default for Channel Status_Thu Sep 17 09:28:21 EDT 2015"/>
+<NullFilter FilterName="[None]" Id="com.ibm.mq.explorer.filterid.channelstatus" IsDefault="0" IsNull="1" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="1009" UniversalId="[None]_Thu Sep 17 09:28:21 EDT 2015"/>
+<UserFilters UserDefinedCount="3">
+<UserDefinedFilter_0 FilterName="All channels where status is retrying" Id="com.ibm.mq.explorer.filterid.channelstatus" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="1" LastSelected="0.0" NameValue="*" SubtypeValue="-1" TypeValue="1009" UniversalId="All channels where status is retrying_Thu Sep 17 09:28:22 EDT 2015" WhereAttrId="1527" WhereOp="2" WhereValue="5" WhereValueName="Retrying" WhereValueType="1"/>
+<UserDefinedFilter_1 FilterName="Standard for Channel Status" Id="com.ibm.mq.explorer.filterid.channelstatus" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="1.44249651E12" NameValue="*" SubtypeValue="0" TypeValue="1009" UniversalId="Standard for Channel Status_Thu Sep 17 09:28:21 EDT 2015"/>
+<UserDefinedFilter_2 FilterName="All channels where status is stopped" Id="com.ibm.mq.explorer.filterid.channelstatus" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="1" LastSelected="0.0" NameValue="*" SubtypeValue="-1" TypeValue="1009" UniversalId="All channels where status is stopped_Thu Sep 17 09:28:22 EDT 2015" WhereAttrId="1527" WhereOp="2" WhereValue="6" WhereValueName="Stopped" WhereValueType="1"/>
+</UserFilters>
+<FilterSelections FilterSelFilterUID_0="Standard for Channel Status_Thu Sep 17 09:28:21 EDT 2015" FilterSelInstanceID_0="com.ibm.mq.explorer.instanceid.common" SelectionCount="1"/>
+</FilterRegistration_com.ibm.mq.explorer.filterid.channelstatus>
+<FilterRegistration_com.ibm.mq.explorer.filterid.channelsavedstatus>
+<DefaultFilter FilterName="Default for Channel Saved Status" Id="com.ibm.mq.explorer.filterid.channelsavedstatus" IsDefault="1" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="1010" UniversalId="Default for Channel Saved Status_Thu Sep 17 09:28:21 EDT 2015"/>
+<NullFilter FilterName="[None]" Id="com.ibm.mq.explorer.filterid.channelsavedstatus" IsDefault="0" IsNull="1" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="1010" UniversalId="[None]_Thu Sep 17 09:28:21 EDT 2015"/>
+<UserFilters UserDefinedCount="1">
+<UserDefinedFilter_0 FilterName="Standard for Channel Saved Status" Id="com.ibm.mq.explorer.filterid.channelsavedstatus" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="1.44249651E12" NameValue="*" SubtypeValue="0" TypeValue="1010" UniversalId="Standard for Channel Saved Status_Thu Sep 17 09:28:21 EDT 2015"/>
+</UserFilters>
+<FilterSelections FilterSelFilterUID_0="Standard for Channel Saved Status_Thu Sep 17 09:28:21 EDT 2015" FilterSelInstanceID_0="com.ibm.mq.explorer.instanceid.common" SelectionCount="1"/>
+</FilterRegistration_com.ibm.mq.explorer.filterid.channelsavedstatus>
+<FilterRegistration_com.ibm.mq.explorer.filterid.clientconns>
+<DefaultFilter FilterName="Default for Client Connections" Id="com.ibm.mq.explorer.filterid.clientconns" IsDefault="1" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="6" TypeValue="1005" UniversalId="Default for Client Connections_Thu Sep 17 09:28:21 EDT 2015"/>
+<NullFilter FilterName="[None]" Id="com.ibm.mq.explorer.filterid.clientconns" IsDefault="0" IsNull="1" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="6" TypeValue="1005" UniversalId="[None]_Thu Sep 17 09:28:21 EDT 2015"/>
+<UserFilters UserDefinedCount="1">
+<UserDefinedFilter_0 FilterName="Standard for Client Connections" Id="com.ibm.mq.explorer.filterid.clientconns" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="1.44249651E12" NameValue="*" SubtypeValue="6" TypeValue="1005" UniversalId="Standard for Client Connections_Thu Sep 17 09:28:21 EDT 2015"/>
+</UserFilters>
+<FilterSelections FilterSelFilterUID_0="Standard for Client Connections_Thu Sep 17 09:28:21 EDT 2015" FilterSelInstanceID_0="com.ibm.mq.explorer.instanceid.common" SelectionCount="1"/>
+</FilterRegistration_com.ibm.mq.explorer.filterid.clientconns>
+<FilterRegistration_com.ibm.mq.explorer.filterid.services>
+<DefaultFilter FilterName="Default for Services" Id="com.ibm.mq.explorer.filterid.services" IsDefault="1" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="153" UniversalId="Default for Services_Thu Sep 17 09:28:21 EDT 2015"/>
+<NullFilter FilterName="[None]" Id="com.ibm.mq.explorer.filterid.services" IsDefault="0" IsNull="1" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="153" UniversalId="[None]_Thu Sep 17 09:28:21 EDT 2015"/>
+<UserFilters UserDefinedCount="1">
+<UserDefinedFilter_0 FilterName="Standard for Services" Id="com.ibm.mq.explorer.filterid.services" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="1.44249651E12" NameValue="*" SubtypeValue="0" TypeValue="153" UniversalId="Standard for Services_Thu Sep 17 09:28:21 EDT 2015"/>
+</UserFilters>
+<FilterSelections FilterSelFilterUID_0="Standard for Services_Thu Sep 17 09:28:21 EDT 2015" FilterSelInstanceID_0="com.ibm.mq.explorer.instanceid.common" SelectionCount="1"/>
+</FilterRegistration_com.ibm.mq.explorer.filterid.services>
+<FilterRegistration_com.ibm.mq.explorer.filterid.servicestatus>
+<DefaultFilter FilterName="Default for Service Status" Id="com.ibm.mq.explorer.filterid.servicestatus" IsDefault="1" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="154" UniversalId="Default for Service Status_Thu Sep 17 09:28:21 EDT 2015"/>
+<NullFilter FilterName="[None]" Id="com.ibm.mq.explorer.filterid.servicestatus" IsDefault="0" IsNull="1" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="154" UniversalId="[None]_Thu Sep 17 09:28:21 EDT 2015"/>
+<UserFilters UserDefinedCount="1">
+<UserDefinedFilter_0 FilterName="Standard for Service Status" Id="com.ibm.mq.explorer.filterid.servicestatus" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="1.44249651E12" NameValue="*" SubtypeValue="0" TypeValue="154" UniversalId="Standard for Service Status_Thu Sep 17 09:28:21 EDT 2015"/>
+</UserFilters>
+<FilterSelections FilterSelFilterUID_0="Standard for Service Status_Thu Sep 17 09:28:21 EDT 2015" FilterSelInstanceID_0="com.ibm.mq.explorer.instanceid.common" SelectionCount="1"/>
+</FilterRegistration_com.ibm.mq.explorer.filterid.servicestatus>
+<FilterRegistration_com.ibm.mq.explorer.filterid.listeners>
+<DefaultFilter FilterName="Default for Listeners" Id="com.ibm.mq.explorer.filterid.listeners" IsDefault="1" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="97" UniversalId="Default for Listeners_Thu Sep 17 09:28:21 EDT 2015"/>
+<NullFilter FilterName="[None]" Id="com.ibm.mq.explorer.filterid.listeners" IsDefault="0" IsNull="1" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="97" UniversalId="[None]_Thu Sep 17 09:28:21 EDT 2015"/>
+<UserFilters UserDefinedCount="5">
+<UserDefinedFilter_0 FilterName="All SPX listeners" Id="com.ibm.mq.explorer.filterid.listeners" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="1" LastSelected="0.0" NameValue="*" SubtypeValue="-1" TypeValue="97" UniversalId="All SPX listeners_Thu Sep 17 09:28:22 EDT 2015" WhereAttrId="1501" WhereOp="2" WhereValue="4" WhereValueName="SPX" WhereValueType="1"/>
+<UserDefinedFilter_1 FilterName="All TCP listeners" Id="com.ibm.mq.explorer.filterid.listeners" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="1" LastSelected="0.0" NameValue="*" SubtypeValue="-1" TypeValue="97" UniversalId="All TCP listeners_Thu Sep 17 09:28:22 EDT 2015" WhereAttrId="1501" WhereOp="2" WhereValue="2" WhereValueName="TCP" WhereValueType="1"/>
+<UserDefinedFilter_2 FilterName="All NetBIOS listeners" Id="com.ibm.mq.explorer.filterid.listeners" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="1" LastSelected="0.0" NameValue="*" SubtypeValue="-1" TypeValue="97" UniversalId="All NetBIOS listeners_Thu Sep 17 09:28:22 EDT 2015" WhereAttrId="1501" WhereOp="2" WhereValue="3" WhereValueName="NetBIOS" WhereValueType="1"/>
+<UserDefinedFilter_3 FilterName="Standard for Listeners" Id="com.ibm.mq.explorer.filterid.listeners" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="1.44249651E12" NameValue="*" SubtypeValue="0" TypeValue="97" UniversalId="Standard for Listeners_Thu Sep 17 09:28:21 EDT 2015"/>
+<UserDefinedFilter_4 FilterName="All LU6.2 listeners" Id="com.ibm.mq.explorer.filterid.listeners" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="1" LastSelected="0.0" NameValue="*" SubtypeValue="-1" TypeValue="97" UniversalId="All LU6.2 listeners_Thu Sep 17 09:28:22 EDT 2015" WhereAttrId="1501" WhereOp="2" WhereValue="1" WhereValueName="LU6.2" WhereValueType="1"/>
+</UserFilters>
+<FilterSelections FilterSelFilterUID_0="Standard for Listeners_Thu Sep 17 09:28:21 EDT 2015" FilterSelInstanceID_0="com.ibm.mq.explorer.instanceid.common" SelectionCount="1"/>
+</FilterRegistration_com.ibm.mq.explorer.filterid.listeners>
+<FilterRegistration_com.ibm.mq.explorer.filterid.listeners.zos>
+<DefaultFilter FilterName="Default for z/OS Listeners" Id="com.ibm.mq.explorer.filterid.listeners.zos" IsDefault="1" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="1015" UniversalId="Default for z/OS Listeners_Thu Sep 17 09:28:21 EDT 2015"/>
+<NullFilter FilterName="[None]" Id="com.ibm.mq.explorer.filterid.listeners.zos" IsDefault="0" IsNull="1" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="1015" UniversalId="[None]_Thu Sep 17 09:28:21 EDT 2015"/>
+<UserFilters UserDefinedCount="1">
+<UserDefinedFilter_0 FilterName="Standard for z/OS Listeners" Id="com.ibm.mq.explorer.filterid.listeners.zos" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="1.44249651E12" NameValue="*" SubtypeValue="0" TypeValue="1015" UniversalId="Standard for z/OS Listeners_Thu Sep 17 09:28:21 EDT 2015"/>
+</UserFilters>
+<FilterSelections FilterSelFilterUID_0="Standard for z/OS Listeners_Thu Sep 17 09:28:21 EDT 2015" FilterSelInstanceID_0="com.ibm.mq.explorer.instanceid.common" SelectionCount="1"/>
+</FilterRegistration_com.ibm.mq.explorer.filterid.listeners.zos>
+<FilterRegistration_com.ibm.mq.explorer.filterid.listenerstatus>
+<DefaultFilter FilterName="Default for Listener Status" Id="com.ibm.mq.explorer.filterid.listenerstatus" IsDefault="1" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="98" UniversalId="Default for Listener Status_Thu Sep 17 09:28:21 EDT 2015"/>
+<NullFilter FilterName="[None]" Id="com.ibm.mq.explorer.filterid.listenerstatus" IsDefault="0" IsNull="1" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="98" UniversalId="[None]_Thu Sep 17 09:28:21 EDT 2015"/>
+<UserFilters UserDefinedCount="1">
+<UserDefinedFilter_0 FilterName="Standard for Listener Status" Id="com.ibm.mq.explorer.filterid.listenerstatus" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="1.44249651E12" NameValue="*" SubtypeValue="0" TypeValue="98" UniversalId="Standard for Listener Status_Thu Sep 17 09:28:21 EDT 2015"/>
+</UserFilters>
+<FilterSelections FilterSelFilterUID_0="Standard for Listener Status_Thu Sep 17 09:28:21 EDT 2015" FilterSelInstanceID_0="com.ibm.mq.explorer.instanceid.common" SelectionCount="1"/>
+</FilterRegistration_com.ibm.mq.explorer.filterid.listenerstatus>
+<FilterRegistration_com.ibm.mq.explorer.filterid.namelists>
+<DefaultFilter FilterName="Default for Namelists" Id="com.ibm.mq.explorer.filterid.namelists" IsDefault="1" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="36" UniversalId="Default for Namelists_Thu Sep 17 09:28:21 EDT 2015"/>
+<NullFilter FilterName="[None]" Id="com.ibm.mq.explorer.filterid.namelists" IsDefault="0" IsNull="1" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="36" UniversalId="[None]_Thu Sep 17 09:28:21 EDT 2015"/>
+<UserFilters UserDefinedCount="1">
+<UserDefinedFilter_0 FilterName="Standard for Namelists" Id="com.ibm.mq.explorer.filterid.namelists" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="1.44249651E12" NameValue="*" SubtypeValue="0" TypeValue="36" UniversalId="Standard for Namelists_Thu Sep 17 09:28:21 EDT 2015"/>
+</UserFilters>
+<FilterSelections FilterSelFilterUID_0="Standard for Namelists_Thu Sep 17 09:28:21 EDT 2015" FilterSelInstanceID_0="com.ibm.mq.explorer.instanceid.common" SelectionCount="1"/>
+</FilterRegistration_com.ibm.mq.explorer.filterid.namelists>
+<FilterRegistration_com.ibm.mq.explorer.filterid.processes>
+<DefaultFilter FilterName="Default for Process Definitions" Id="com.ibm.mq.explorer.filterid.processes" IsDefault="1" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="7" UniversalId="Default for Process Definitions_Thu Sep 17 09:28:21 EDT 2015"/>
+<NullFilter FilterName="[None]" Id="com.ibm.mq.explorer.filterid.processes" IsDefault="0" IsNull="1" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="7" UniversalId="[None]_Thu Sep 17 09:28:21 EDT 2015"/>
+<UserFilters UserDefinedCount="1">
+<UserDefinedFilter_0 FilterName="Standard for Process Definitions" Id="com.ibm.mq.explorer.filterid.processes" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="1.44249651E12" NameValue="*" SubtypeValue="0" TypeValue="7" UniversalId="Standard for Process Definitions_Thu Sep 17 09:28:21 EDT 2015"/>
+</UserFilters>
+<FilterSelections FilterSelFilterUID_0="Standard for Process Definitions_Thu Sep 17 09:28:21 EDT 2015" FilterSelInstanceID_0="com.ibm.mq.explorer.instanceid.common" SelectionCount="1"/>
+</FilterRegistration_com.ibm.mq.explorer.filterid.processes>
+<FilterRegistration_com.ibm.mq.explorer.filterid.authinfo>
+<DefaultFilter FilterName="Default for Authentication Information" Id="com.ibm.mq.explorer.filterid.authinfo" IsDefault="1" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="83" UniversalId="Default for Authentication Information_Thu Sep 17 09:28:21 EDT 2015"/>
+<NullFilter FilterName="[None]" Id="com.ibm.mq.explorer.filterid.authinfo" IsDefault="0" IsNull="1" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="83" UniversalId="[None]_Thu Sep 17 09:28:21 EDT 2015"/>
+<UserFilters UserDefinedCount="1">
+<UserDefinedFilter_0 FilterName="Standard for Authentication Information" Id="com.ibm.mq.explorer.filterid.authinfo" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="1.44249651E12" NameValue="*" SubtypeValue="0" TypeValue="83" UniversalId="Standard for Authentication Information_Thu Sep 17 09:28:21 EDT 2015"/>
+</UserFilters>
+<FilterSelections FilterSelFilterUID_0="Standard for Authentication Information_Thu Sep 17 09:28:21 EDT 2015" FilterSelInstanceID_0="com.ibm.mq.explorer.instanceid.common" SelectionCount="1"/>
+</FilterRegistration_com.ibm.mq.explorer.filterid.authinfo>
+<FilterRegistration_com.ibm.mq.explorer.filterid.storageclass>
+<DefaultFilter FilterName="Default for Storage Classes" Id="com.ibm.mq.explorer.filterid.storageclass" IsDefault="1" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="122" UniversalId="Default for Storage Classes_Thu Sep 17 09:28:21 EDT 2015"/>
+<NullFilter FilterName="[None]" Id="com.ibm.mq.explorer.filterid.storageclass" IsDefault="0" IsNull="1" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="122" UniversalId="[None]_Thu Sep 17 09:28:21 EDT 2015"/>
+<UserFilters UserDefinedCount="1">
+<UserDefinedFilter_0 FilterName="Standard for Storage Classes" Id="com.ibm.mq.explorer.filterid.storageclass" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="1.44249651E12" NameValue="*" SubtypeValue="0" TypeValue="122" UniversalId="Standard for Storage Classes_Thu Sep 17 09:28:21 EDT 2015"/>
+</UserFilters>
+<FilterSelections FilterSelFilterUID_0="Standard for Storage Classes_Thu Sep 17 09:28:21 EDT 2015" FilterSelInstanceID_0="com.ibm.mq.explorer.instanceid.common" SelectionCount="1"/>
+</FilterRegistration_com.ibm.mq.explorer.filterid.storageclass>
+<FilterRegistration_com.ibm.mq.explorer.filterid.couplingfacility>
+<DefaultFilter FilterName="Default for Coupling Facility Structures" Id="com.ibm.mq.explorer.filterid.couplingfacility" IsDefault="1" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="115" UniversalId="Default for Coupling Facility Structures_Thu Sep 17 09:28:22 EDT 2015"/>
+<NullFilter FilterName="[None]" Id="com.ibm.mq.explorer.filterid.couplingfacility" IsDefault="0" IsNull="1" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="115" UniversalId="[None]_Thu Sep 17 09:28:22 EDT 2015"/>
+<UserFilters UserDefinedCount="1">
+<UserDefinedFilter_0 FilterName="Standard for Coupling Facility Structures" Id="com.ibm.mq.explorer.filterid.couplingfacility" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="1.44249651E12" NameValue="*" SubtypeValue="0" TypeValue="115" UniversalId="Standard for Coupling Facility Structures_Thu Sep 17 09:28:22 EDT 2015"/>
+</UserFilters>
+<FilterSelections FilterSelFilterUID_0="Standard for Coupling Facility Structures_Thu Sep 17 09:28:22 EDT 2015" FilterSelInstanceID_0="com.ibm.mq.explorer.instanceid.common" SelectionCount="1"/>
+</FilterRegistration_com.ibm.mq.explorer.filterid.couplingfacility>
+<FilterRegistration_com.ibm.mq.explorer.filterid.queuesharinggroups>
+<DefaultFilter FilterName="Default for Queue-sharing Groups" Id="com.ibm.mq.explorer.filterid.queuesharinggroups" IsDefault="1" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="119" UniversalId="Default for Queue-sharing Groups_Thu Sep 17 09:28:22 EDT 2015"/>
+<NullFilter FilterName="[None]" Id="com.ibm.mq.explorer.filterid.queuesharinggroups" IsDefault="0" IsNull="1" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="119" UniversalId="[None]_Thu Sep 17 09:28:22 EDT 2015"/>
+<UserFilters UserDefinedCount="1">
+<UserDefinedFilter_0 FilterName="Standard for Queue-sharing Groups" Id="com.ibm.mq.explorer.filterid.queuesharinggroups" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="1.44249651E12" NameValue="*" SubtypeValue="0" TypeValue="119" UniversalId="Standard for Queue-sharing Groups_Thu Sep 17 09:28:22 EDT 2015"/>
+</UserFilters>
+<FilterSelections FilterSelFilterUID_0="Standard for Queue-sharing Groups_Thu Sep 17 09:28:22 EDT 2015" FilterSelInstanceID_0="com.ibm.mq.explorer.instanceid.common" SelectionCount="1"/>
+</FilterRegistration_com.ibm.mq.explorer.filterid.queuesharinggroups>
+<FilterRegistration_com.ibm.mq.explorer.filterid.couplingfacilitystatus.summary>
+<DefaultFilter FilterName="Default for Coupling Facility Summary Status" Id="com.ibm.mq.explorer.filterid.couplingfacilitystatus.summary" IsDefault="1" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="1021" UniversalId="Default for Coupling Facility Summary Status_Thu Sep 17 09:28:22 EDT 2015"/>
+<NullFilter FilterName="[None]" Id="com.ibm.mq.explorer.filterid.couplingfacilitystatus.summary" IsDefault="0" IsNull="1" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="1021" UniversalId="[None]_Thu Sep 17 09:28:22 EDT 2015"/>
+<UserFilters UserDefinedCount="1">
+<UserDefinedFilter_0 FilterName="Standard for Coupling Facility Summary Status" Id="com.ibm.mq.explorer.filterid.couplingfacilitystatus.summary" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="1.44249651E12" NameValue="*" SubtypeValue="0" TypeValue="1021" UniversalId="Standard for Coupling Facility Summary Status_Thu Sep 17 09:28:22 EDT 2015"/>
+</UserFilters>
+<FilterSelections FilterSelFilterUID_0="Standard for Coupling Facility Summary Status_Thu Sep 17 09:28:22 EDT 2015" FilterSelInstanceID_0="com.ibm.mq.explorer.instanceid.common" SelectionCount="1"/>
+</FilterRegistration_com.ibm.mq.explorer.filterid.couplingfacilitystatus.summary>
+<FilterRegistration_com.ibm.mq.explorer.filterid.couplingfacilitystatus.connect>
+<DefaultFilter FilterName="Default for Coupling Facility Connect Status " Id="com.ibm.mq.explorer.filterid.couplingfacilitystatus.connect" IsDefault="1" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="1020" UniversalId="Default for Coupling Facility Connect Status _Thu Sep 17 09:28:22 EDT 2015"/>
+<NullFilter FilterName="[None]" Id="com.ibm.mq.explorer.filterid.couplingfacilitystatus.connect" IsDefault="0" IsNull="1" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="1020" UniversalId="[None]_Thu Sep 17 09:28:22 EDT 2015"/>
+<UserFilters UserDefinedCount="1">
+<UserDefinedFilter_0 FilterName="Standard for Coupling Facility Connect Status " Id="com.ibm.mq.explorer.filterid.couplingfacilitystatus.connect" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="1.44249651E12" NameValue="*" SubtypeValue="0" TypeValue="1020" UniversalId="Standard for Coupling Facility Connect Status _Thu Sep 17 09:28:22 EDT 2015"/>
+</UserFilters>
+<FilterSelections FilterSelFilterUID_0="Standard for Coupling Facility Connect Status _Thu Sep 17 09:28:22 EDT 2015" FilterSelInstanceID_0="com.ibm.mq.explorer.instanceid.common" SelectionCount="1"/>
+</FilterRegistration_com.ibm.mq.explorer.filterid.couplingfacilitystatus.connect>
+<FilterRegistration_com.ibm.mq.explorer.filterid.couplingfacilitystatus.backup>
+<DefaultFilter FilterName="Default for Coupling Facility Backup Status " Id="com.ibm.mq.explorer.filterid.couplingfacilitystatus.backup" IsDefault="1" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="1019" UniversalId="Default for Coupling Facility Backup Status _Thu Sep 17 09:28:22 EDT 2015"/>
+<NullFilter FilterName="[None]" Id="com.ibm.mq.explorer.filterid.couplingfacilitystatus.backup" IsDefault="0" IsNull="1" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="1019" UniversalId="[None]_Thu Sep 17 09:28:22 EDT 2015"/>
+<UserFilters UserDefinedCount="1">
+<UserDefinedFilter_0 FilterName="Standard for Coupling Facility Backup Status " Id="com.ibm.mq.explorer.filterid.couplingfacilitystatus.backup" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="1.44249651E12" NameValue="*" SubtypeValue="0" TypeValue="1019" UniversalId="Standard for Coupling Facility Backup Status _Thu Sep 17 09:28:22 EDT 2015"/>
+</UserFilters>
+<FilterSelections FilterSelFilterUID_0="Standard for Coupling Facility Backup Status _Thu Sep 17 09:28:22 EDT 2015" FilterSelInstanceID_0="com.ibm.mq.explorer.instanceid.common" SelectionCount="1"/>
+</FilterRegistration_com.ibm.mq.explorer.filterid.couplingfacilitystatus.backup>
+<FilterRegistration_com.ibm.mq.explorer.pubsub.filterid.topics>
+<DefaultFilter FilterName="Default for Topics" Id="com.ibm.mq.explorer.pubsub.filterid.topics" IsDefault="1" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="1501" UniversalId="Default for Topics_Thu Sep 17 09:28:22 EDT 2015"/>
+<NullFilter FilterName="[None]" Id="com.ibm.mq.explorer.pubsub.filterid.topics" IsDefault="0" IsNull="1" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="0" TypeValue="1501" UniversalId="[None]_Thu Sep 17 09:28:22 EDT 2015"/>
+<UserFilters UserDefinedCount="1">
+<UserDefinedFilter_0 FilterName="Standard for Topics" Id="com.ibm.mq.explorer.pubsub.filterid.topics" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="1.44249651E12" NameValue="*" SubtypeValue="0" TypeValue="1501" UniversalId="Standard for Topics_Thu Sep 17 09:28:22 EDT 2015"/>
+</UserFilters>
+<FilterSelections FilterSelFilterUID_0="Standard for Topics_Thu Sep 17 09:28:22 EDT 2015" FilterSelInstanceID_0="com.ibm.mq.explorer.instanceid.common" SelectionCount="1"/>
+</FilterRegistration_com.ibm.mq.explorer.pubsub.filterid.topics>
+<FilterRegistration_com.ibm.mq.explorer.jmsadmin.context>
+<DefaultFilter FilterName="Default for JNDI Object" Id="com.ibm.mq.explorer.jmsadmin.context" IsDefault="1" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="2016" TypeValue="2004" UniversalId="Default for JNDI Object_Fri Sep 18 10:53:47 EDT 2015"/>
+<NullFilter FilterName="[None]" Id="com.ibm.mq.explorer.jmsadmin.context" IsDefault="0" IsNull="1" IsScheme="0" IsWhere="0" LastSelected="0.0" NameValue="*" SubtypeValue="2016" TypeValue="2004" UniversalId="[None]_Fri Sep 18 10:53:47 EDT 2015"/>
+<UserFilters UserDefinedCount="1">
+<UserDefinedFilter_0 FilterName="Standard for JNDI Object" Id="com.ibm.mq.explorer.jmsadmin.context" IsDefault="0" IsNull="0" IsScheme="0" IsWhere="0" LastSelected="1.442588E12" NameValue="*" SubtypeValue="2016" TypeValue="2004" UniversalId="Standard for JNDI Object_Fri Sep 18 10:53:47 EDT 2015"/>
+</UserFilters>
+<FilterSelections FilterSelFilterUID_0="Standard for JNDI Object_Fri Sep 18 10:53:47 EDT 2015" FilterSelInstanceID_0="com.ibm.mq.explorer.instanceid.common" SelectionCount="1"/>
+</FilterRegistration_com.ibm.mq.explorer.jmsadmin.context>
+</Filters>

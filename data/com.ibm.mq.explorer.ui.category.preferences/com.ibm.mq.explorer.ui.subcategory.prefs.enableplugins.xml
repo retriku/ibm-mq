@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Preferences FileVersion="1.0.0">
+<PluginRegistrations Count="20">
+<Plugin_0 Enabled="1" PluginId="com.ibm.mq.explorer.clusterplugin"/>
+<Plugin_1 Enabled="1" PluginId="com.ibm.mq.explorer.importexport"/>
+<Plugin_2 Enabled="0" PluginId="com.ibm.mq.explorer.jmsadmin.sample.menus"/>
+<Plugin_3 Enabled="1" PluginId="com.ibm.mq.explorer.jmsadmin.tests"/>
+<Plugin_4 Enabled="1" PluginId="com.ibm.mq.explorer.jmsadmin"/>
+<Plugin_5 Enabled="1" PluginId="com.ibm.mq.explorer.messageplugin.internal"/>
+<Plugin_6 Enabled="1" PluginId="com.ibm.mq.explorer.oam.tests"/>
+<Plugin_7 Enabled="1" PluginId="com.ibm.mq.explorer.oam"/>
+<Plugin_8 Enabled="1" PluginId="com.ibm.mq.explorer.pubsub"/>
+<Plugin_9 Enabled="1" PluginId="com.ibm.mq.explorer.qmgradmin.sets"/>
+<Plugin_10 Enabled="1" PluginId="com.ibm.mq.explorer.qmgradmin.topicstatus"/>
+<Plugin_11 Enabled="1" PluginId="com.ibm.mq.explorer.qmgradmin"/>
+<Plugin_12 Enabled="0" PluginId="com.ibm.mq.explorer.sample.menus"/>
+<Plugin_13 Enabled="0" PluginId="com.ibm.mq.explorer.sample.simple"/>
+<Plugin_14 Enabled="1" PluginId="com.ibm.mq.explorer.servicedef"/>
+<Plugin_15 Enabled="1" PluginId="com.ibm.mq.explorer.tests.coretests.cluster"/>
+<Plugin_16 Enabled="1" PluginId="com.ibm.mq.explorer.tests.coretests"/>
+<Plugin_17 Enabled="0" PluginId="com.ibm.mq.explorer.tests.sample"/>
+<Plugin_18 Enabled="1" PluginId="com.ibm.mq.explorer.tests"/>
+<Plugin_19 Enabled="1" PluginId="com.ibm.mq.explorer.traceplugin.internal"/>
+</PluginRegistrations>
+</Preferences>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MsgPreferences FileVersion="1.0.0">
+<Msg max_message_bytes_count="1000" max_message_count="500" property_option_on_get="134217728"/>
+</MsgPreferences>

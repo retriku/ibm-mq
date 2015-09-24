@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Preferences FileVersion="1.0.0">
+<Colors ConsoleBackgroundColorBlue="255" ConsoleBackgroundColorGreen="255" ConsoleBackgroundColorRed="255" ConsoleCommandColorBlue="0" ConsoleCommandColorGreen="0" ConsoleCommandColorRed="0" ConsoleResultColorBlue="0" ConsoleResultColorGreen="0" ConsoleResultColorRed="0" ConsoleStderrColorBlue="0" ConsoleStderrColorGreen="0" ConsoleStderrColorRed="255" ConsoleStdoutColorBlue="128" ConsoleStdoutColorGreen="0" ConsoleStdoutColorRed="0" InvalidCellColorBlue="200" InvalidCellColorGreen="208" InvalidCellColorRed="212"/>
+</Preferences>
