@@ -26,7 +26,6 @@ COPY config.mqsc /etc/mqm/
 
 RUN useradd ibmuser -G mqm && \
 	echo ibmuser:passw0rd | chpasswd
-COPY keystore/key.* /tmp/
 
 # Make sure the MQ environment is available for "docker exec" under non-interactive Bash
 ENV BASH_ENV=/usr/local/bin/mq-env.sh
