@@ -1,5 +1,5 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-runmqakm -keydb -create -db key.kdb -pw "Wj{ P=rntCs:X#X3Y#.yGZ;&FwN8.)kE\$PS0+0<orzbu<>p@GNFkb\!NUDLK1Y=Dc" -stash -fips
+runmqakm -keydb -create -db key.kdb -pw '`runmqakm -random -create -strong -length 64`' -stash -fips
 runmqakm -cert -create -label ibmwebspheremqqm1 -stashed -ca false -expire 720 -size 2048 -dn "CN=company.com,OU=QMGR" -fips -db key.kdb
 runmqakm -cert -extract -db key.kdb -stashed -label ibmwebspheremqqm1 -target key.arm -format ascii
 keytool.exe -genkey -alias ibmwebspheremqmqm -keyalg RSA -sigalg SHA256withRSA -dname "CN=somename@mail.com" -keystore mqm.jks -storetype jks -storepass passw0rd -keypass passw0rd -validity 365 -keysize 2048
